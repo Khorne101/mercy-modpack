@@ -1,0 +1,13 @@
+name = "Mercy Modpack"
+author = "Khorne & Mercy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cc564b799eb6399de658c35bf20ca5af2e6bc1d57e700572da268c7a022a1a2b"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

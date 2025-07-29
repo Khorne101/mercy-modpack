@@ -1,0 +1,13 @@
+name = "TrimsEffects"
+filename = "trimeffects-1.1.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BL7ADJ7w/versions/VLPt4Ba4/trimeffects-1.1.1-neoforge.jar"
+hash-format = "sha512"
+hash = "0859c37c68ce29a4735d2eaf659d4b5b24832a1c6744fc4cd2e729bf345fa7bfe0c9c94e56ca8e6f14b2151e0f7078468f930cd9458c6c96540359e947e8b702"
+
+[update]
+[update.modrinth]
+mod-id = "BL7ADJ7w"
+version = "VLPt4Ba4"
