@@ -3,8 +3,8 @@ filename = "almanac-1.20.x-forge-1.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f0b711df59cd589b088e536ca4134c5e6e73fd58"
+hash-format = "sha256"
+hash = "b8e0b42329c11739201d132bc99720e8205badc4ce862b30e4eec04b833e3419"
 mode = "metadata:curseforge"
 
 [update]

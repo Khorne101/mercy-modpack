@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/H1sntfo8/versions/88t2ts1p/guardvillagers-1.20.1-1.6.11.jar"
-hash-format = "sha512"
-hash = "8697471cd7ae0cc5aafc5101c053db68feda02e9cebdf94868aac4be4d47032bd91e17ba6fc0f7d9dcda724493b463596d9c9ddd048d06cb982b074b457a7708"
+hash-format = "sha256"
+hash = "b705c62b76effaca012eec9436d52c77da503daa2ddfe6b5da6f7cc636413ca7"
 
 [update]
 [update.modrinth]

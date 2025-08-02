@@ -3,8 +3,8 @@ filename = "delightfulcreators-1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bb3645482adcca88276d69756c38fc725a3a5cdb"
+hash-format = "sha256"
+hash = "dfe1f0904e70ebd99fd6518f189e955c3d2f6834a68019dafb3ec349214f0d25"
 mode = "metadata:curseforge"
 
 [update]

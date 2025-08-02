@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/JmybsfWs/versions/EIfTFqT2/Create-DnDesire-1.20.1-0.1a.Release-Early-Dev.jar"
-hash-format = "sha512"
-hash = "aa058d2f9271b20781c0deeb81162ca345cbba8d388a732e2b45d36d8b907cc3d1d9a40799dfea3214a4609be5b97dd016c4d626c4314e5f0332ec862b134eb4"
+hash-format = "sha256"
+hash = "9ccdc8c16317f7af30fa3991e4de10e03dde70ad042df6e9dcad34f855614022"
 
 [update]
 [update.modrinth]

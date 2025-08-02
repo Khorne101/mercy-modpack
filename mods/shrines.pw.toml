@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/F33t24Wi/versions/1qATNC96/Shrines-1.20.1-6.0.2.jar"
-hash-format = "sha512"
-hash = "d27b81a8863b88f03decbff67cdc670cfd38a067840fd987f7db20920704aa3b5091503691e8c2e579eddbbc38bc3b76756ecddc6be0226f17ea4d16b633d551"
+hash-format = "sha256"
+hash = "bbb1e9c765a8c7191486c34a2fa93be5268f70bd796590199803061bd5375021"
 
 [update]
 [update.modrinth]

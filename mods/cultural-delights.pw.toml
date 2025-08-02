@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YttyNOFA/versions/1IoPruxL/culturaldelights-0.16.5.jar"
-hash-format = "sha512"
-hash = "524ac2dba18f94bb04de797f8192fcf4018be37ee290c001a3141d7bf171724f3502e3a0fa095b1c1b4b2fd8ab5825a951b484f1f87bdfa8a0d6501aa2dc4ddd"
+hash-format = "sha256"
+hash = "db2d71b625f353a9a9d21233682340cd6de3352dd48ad73fe355cb602beb39e8"
 
 [update]
 [update.modrinth]
