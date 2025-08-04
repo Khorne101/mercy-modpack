@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/aether.pw.toml"
-hash = "1aaba088a650cc1499e1871cfa92f97e3d10a9d8c612fbd784b36c12382196de"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "a7688ab4cf2d5ce7bf15a8177ea0e984a94dd93bce02af7fa835216cc73a2fb9"
-metafile = true
-
-hash-format = "sha256"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b1f419fa122ee3e28f9220ac039b88d9f93ae601194b3eae828f90b81287b4c7"
 metafile = true
@@ -746,3 +734,14 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "853990ca5227fba866d624f8ed84989869d0e194f44073efc13c7636cbe747d9"
 metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "1aaba088a650cc1499e1871cfa92f97e3d10a9d8c612fbd784b36c12382196de"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "a7688ab4cf2d5ce7bf15a8177ea0e984a94dd93bce02af7fa835216cc73a2fb9"
+metafile = true
+
