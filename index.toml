@@ -11,6 +11,11 @@ hash = "baf4d22ee375c74f6269861b4937f4a0ba548623134dff8b852e84021666f05b"
 metafile = true
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "1aaba088a650cc1499e1871cfa92f97e3d10a9d8c612fbd784b36c12382196de"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "6056c73b9ef97d432ca1e01c21f113de4519ec1d6247ae1d091b9706e6d9cd15"
 metafile = true
@@ -67,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2868855bd6b90b1fad1c3210715fc403029f4e66368a7100854aed359005d2e4"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -153,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "14a26e409ca05abdc1fa525bc9774625fd482c2673cb09639926ad05faa3fc47"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
@@ -278,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/delightful-creators-forge.pw.toml"
 hash = "a768c5c348ab44ac8386ed3f6713a86680028c6cebe334d21b580be56f34c844"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "b336a8ec620a9d52041e63b61c17e5857e8d6cb46cdbf4989066dec38ead21d3"
 metafile = true
 
 [[files]]
