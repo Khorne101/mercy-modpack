@@ -341,11 +341,6 @@ hash = "c442358994c36d3dc41761c52c96afa145333afd0d63d7cc4c8bff8c77d56601"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "c4322a5cfd6f237afd99a5c838a195bb07d374c97b6c23d5d5fa77f22ec5c209"
-metafile = true
-
-[[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "23436e9cca3b369991d0366cd00e7ed818f0ea16dd2ad68b73d138ded1593cb2"
 metafile = true
@@ -526,6 +521,11 @@ hash = "c128b30b14ad0f4c51741794948b1bb71b029d5b09dc069b28e6687019db5b29"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "91bb499327b1aba3644a105827ca28f6a99db53e7a9a3cb1c8937ceb5342d509"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "38264c25adac30aed577287bcbdce1b0eb42129f4c81953802283af737201161"
 metafile = true
@@ -616,6 +616,11 @@ hash = "e42fb376833ce7f54253d38b8c6ba461bf779c66db1bec75c0f2126c6b83bd70"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "a5f53d900fa96cb365eb0cf34aa8be98052617179fc0ff45c84de5b7567b899b"
+metafile = true
+
+[[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "760962f2516c3f9b2769054afa4fdca791a4978c951e9df755362c661ae6b40d"
 metafile = true
@@ -688,6 +693,21 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "389ebeed3867711b478d0895649ed2583f2cace7e7397af72be7c05ac4cf0c57"
+metafile = true
+
+[[files]]
+file = "mods/xaero-zoomout.pw.toml"
+hash = "d073a4b6f70d14dd592cae040a6b5aa810ad54b70d41c64b179ea82af6a23ad1"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "b339af854fac7f9c1abaea5dc7772d3d487e501c984234e368d184e857ec639b"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d79e6762f40c15c47b6c1cc9937030afc130ff6f20ace5765002b081f621eb6c"
 metafile = true
 
 [[files]]
