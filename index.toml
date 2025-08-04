@@ -81,6 +81,11 @@ hash = "1911b9f2bc9debccc66d7762932f66975f111695df46168fa80a628d31b0cbed"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "db4f5c3af920d47d6eed32fc02384f2159ea7d51a7e6ccd0e87771737d2690a7"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "c06bb3b8ad08a36a627c6398b53b82aa4844e9314326c87fa04df2bc3a26074c"
 metafile = true
@@ -276,6 +281,11 @@ hash = "69e1d133431b236d9f8099069c900910129b37a19686f2391d7f04283ba8d81c"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "8c1b55d29559d89437272f58baee1d142898b0a1a2a105f0d419cef208c3ce3d"
+metafile = true
+
+[[files]]
 file = "mods/enderio.pw.toml"
 hash = "5defc91e32790ba5833025c4e76d1f46ee68cc8214142d124dc3503e3db3c2d5"
 metafile = true
@@ -461,6 +471,11 @@ hash = "db486dc301235e27f542e447738d6d86a9bb680337e6a040ebc18632475d5be6"
 metafile = true
 
 [[files]]
+file = "mods/mimi.pw.toml"
+hash = "11b67ab9c9414e1b559e25615799f49211096ef3c6828074f01bea791844722b"
+metafile = true
+
+[[files]]
 file = "mods/miners-delight-plus.pw.toml"
 hash = "40eae24c1f175d31b1732a4856bc82a933c3c9cfb0b922b85879d047f2fb0519"
 metafile = true
@@ -503,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "3bcdf60c24882b1a562bb09b96972b8948f4f96178896c6dea734f958eec9107"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "c128b30b14ad0f4c51741794948b1bb71b029d5b09dc069b28e6687019db5b29"
 metafile = true
 
 [[files]]
@@ -663,6 +683,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "03c791ca063d37d302333d66600f7cfb308c495f595aa687ffdd88961760a7ad"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "389ebeed3867711b478d0895649ed2583f2cace7e7397af72be7c05ac4cf0c57"
 metafile = true
 
 [[files]]

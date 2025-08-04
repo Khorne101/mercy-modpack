@@ -1,0 +1,13 @@
+name = "Musical Instrument Minecraft Interface (MIMI)"
+filename = "mimimod-1.21.1-4.2.1.DEV.5-neo.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/efSTEGLV/versions/3VXuWPnj/mimimod-1.21.1-4.2.1.DEV.5-neo.jar"
+hash-format = "sha256"
+hash = "1e1e4123a693b19f2bb091dff9f4ca9a00f485d0e5a723c43663df2d4e32d325"
+
+[update]
+[update.modrinth]
+mod-id = "efSTEGLV"
+version = "3VXuWPnj"
