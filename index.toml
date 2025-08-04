@@ -111,6 +111,11 @@ hash = "d8504b0260e6e097af817a4fa2f692a9667829e8463b2af9898d442e9843c433"
 metafile = true
 
 [[files]]
+file = "mods/blockui.pw.toml"
+hash = "695b5ebbcb9a402cf9200de74984e419b0d26ae860c6b846f58e8a1675529781"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "c6a778c45860c0d04d50bf9a30801b10beb50a35442a162bf2bec466a902b490"
 metafile = true
@@ -273,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/delightful-creators-forge.pw.toml"
 hash = "a768c5c348ab44ac8386ed3f6713a86680028c6cebe334d21b580be56f34c844"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "6536d3a02319fb3500cd412ddb715f7be2818aa60f3b3dacd2658a0d85e31d15"
 metafile = true
 
 [[files]]
@@ -476,6 +486,11 @@ hash = "26121dd0a01ce05187f1400824d603e598798d732c004bd4153c0a9f990b518b"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "1ef63d97de11e605fb8cb4d6bf892eb6af5d2df2a4d8bedb0ad429f74bda84da"
+metafile = true
+
+[[files]]
 file = "mods/miners-delight-plus.pw.toml"
 hash = "40eae24c1f175d31b1732a4856bc82a933c3c9cfb0b922b85879d047f2fb0519"
 metafile = true
@@ -498,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d29b209fde3072e8307f59278e949d103da853ff8ed62bf1f367338d5f4acc77"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
 metafile = true
 
 [[files]]
@@ -636,6 +656,11 @@ hash = "70fd770ac4a1328f75688146bc3c4aa61229c45f4acef205c860e05e7258fbe4"
 metafile = true
 
 [[files]]
+file = "mods/structurize.pw.toml"
+hash = "f5f862ea5c773bddbf42174f8ebfa3b8d7d596d78a0ee54c50c9cb9634bf91cf"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "3660c6a7adb8ad928d59d5b1e5bc3fa925c8958aeb7420e793db909c2f577582"
 metafile = true
@@ -668,6 +693,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "49649fc114ce9c2d2c7adc7e8f52a8e70d501ed02500f354411a284119dd017b"
+metafile = true
+
+[[files]]
+file = "mods/towntalk.pw.toml"
+hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
 metafile = true
 
 [[files]]
