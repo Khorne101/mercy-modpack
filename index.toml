@@ -171,6 +171,11 @@ hash = "2e96f1be52d41fd238bed3b1bb76f031f2f61642a1645b830222b9dd41db44f1"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "21254d2f33cfc9b90b304a3aeacff5572cf78729c0fb93a3103a80a445f7c791"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "9565552d18b9522a35a7e3e08e3e60323917d276aa88fc85ab0f6ce8a17e06a6"
 metafile = true
@@ -467,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/mimi.pw.toml"
-hash = "11b67ab9c9414e1b559e25615799f49211096ef3c6828074f01bea791844722b"
+hash = "26121dd0a01ce05187f1400824d603e598798d732c004bd4153c0a9f990b518b"
 metafile = true
 
 [[files]]
