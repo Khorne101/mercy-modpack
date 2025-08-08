@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "1aaba088a650cc1499e1871cfa92f97e3d10a9d8c612fbd784b36c12382196de"
+hash = "868c3341784224a34e1d7a94c21f1ae77f87e0e94a060ed104d7d8d76b4ef086"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+hash = "a7fa7c681c6bbc5d614b527c7f234153af5a54686013282ae918f8c1e41dfc23"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "695b5ebbcb9a402cf9200de74984e419b0d26ae860c6b846f58e8a1675529781"
+hash = "eeab0d6510de37a6cac88766a6bfc2256006cfbd2388c38d18fbf4d777777dba"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+hash = "1f0ad1ed71545dd138f5f1bd258a0c9e5c66dc803a924551f36a0d8573960e90"
 metafile = true
 
 [[files]]
@@ -292,12 +292,12 @@ metafile = true
 
 [[files]]
 file = "mods/dimensionaldoors.pw.toml"
-hash = "b336a8ec620a9d52041e63b61c17e5857e8d6cb46cdbf4989066dec38ead21d3"
+hash = "a9f566c176ece1cd0e88b8110f89a9fccfe3b501840188829010a4dead1cb6ec"
 metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "6536d3a02319fb3500cd412ddb715f7be2818aa60f3b3dacd2658a0d85e31d15"
+hash = "07b1925837caa1cc5baf69f70ff9ef552db09506d2d9dd0c09c7798f911735f3"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "1ef63d97de11e605fb8cb4d6bf892eb6af5d2df2a4d8bedb0ad429f74bda84da"
+hash = "c304d000bbded173bda92cdc47bafb0a1bed48202fef23da5a1739e741b7806b"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/multi-piston.pw.toml"
-hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
+hash = "deb08bfc951b9cb26cb638f598cff9c104676380b82d3dbb533687c4d4784a45"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "38264c25adac30aed577287bcbdce1b0eb42129f4c81953802283af737201161"
+hash = "167ffb576baf582a491ffac0a9f6dfdea87286ece76571d70f7daa41514ac255"
 metafile = true
 
 [[files]]
@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "f5f862ea5c773bddbf42174f8ebfa3b8d7d596d78a0ee54c50c9cb9634bf91cf"
+hash = "797981136d987e5b8f0da5f78142e49db83d4542ae01200de28b1c6b5e35e1b6"
 metafile = true
 
 [[files]]
@@ -696,11 +696,6 @@ hash = "57790ebd2f5c9272a0af83b90367cf565b597526031661639afca03e7e1442e7"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-delight.pw.toml"
-hash = "50462c247a0cdc71b07ed6571c311270ae24fd3376bbeed7d20bd7f96f5a1fb2"
-metafile = true
-
-[[files]]
 file = "mods/toast-control.pw.toml"
 hash = "c786aef1b71969a28e8e37e458f49314fcc83f51dc789ca5eadabe09da471f04"
 metafile = true
@@ -712,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/towntalk.pw.toml"
-hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
+hash = "f7c97f4042e60125a4bd8f51dd9b49a115a02f4bed0670028232f4c3adbc89e2"
 metafile = true
 
 [[files]]

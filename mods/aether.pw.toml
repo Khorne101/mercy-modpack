@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YhmgMVyu/versions/2411kUqF/aether-1.20.1-1.5.2-neoforge.jar"
-hash-format = "sha512"
-hash = "60b23e439b244645eafda5f3ddd620ac37e94bd75441d2deea9c328e1e154362f48b08aff1959849a7428ae7664422723fdbdb12aaeddfd56409ba4b54a7eaaf"
+hash-format = "sha256"
+hash = "b6b586eb6fdc9ce4b3645cab43642ba87817c5deadef4d87ab884e4fe20ef282"
 
 [update]
 [update.modrinth]
